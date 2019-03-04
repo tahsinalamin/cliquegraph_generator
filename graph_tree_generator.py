@@ -1,5 +1,9 @@
-####A Python Program that generates a tree graph with different edges###
-####Sikder Tahsin Al-Amin#####
+"""
+Author: Sikder Tahsin Al-Amin
+Description: A Python Program that generates a tree graph with different edges
+Filename: graph_tree_generator.py
+"""
+
 import pandas as pd
 import random
 

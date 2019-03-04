@@ -1,3 +1,9 @@
+"""
+Author: Sikder Tahsin Al-Amin
+Filename: graph_complete_generator.py
+Description: Generates a complete graph given the number of vertices
+"""
+
 import csv
 import pandas as pd
 import random
